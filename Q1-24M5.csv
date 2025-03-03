@@ -1,4 +1,4 @@
-time,open,high,low,Close,tick_volume,spread,real_volume
+time,Open,High,Low,Close,tick_volume,spread,real_volume
 2024-01-02 01:00:00,2063.21,2065.44,2063.12,2065.3,183,21,0
 2024-01-02 01:05:00,2065.32,2065.32,2064.11,2064.64,137,21,0
 2024-01-02 01:10:00,2064.6,2066.45,2064.45,2065.77,154,19,0
